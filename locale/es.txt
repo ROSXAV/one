@@ -1,0 +1,20 @@
+#: locale=es
+
+## Tour
+
+### Description
+
+### Título
+tour.name = Sin Título 4
+
+## Media
+
+### Título
+panorama_99E298E8_9311_70E4_41C0_ADD4EC2ADE53.label = Planta-02112021_154705
+
+## Acción
+
+### URL
+LinkBehaviour_9D0D1EF5_9312_D0ED_41D4_5511635A3540.source = https://files.ointegra.com/external/5KR9HtsTeGs-M6lG7
+LinkBehaviour_9EBDA7B6_9313_716C_41CF_4B4B973214B5.source = https://files.ointegra.com/external/5KR9HtsTeGu-M6lG7
+LinkBehaviour_9EBDF7B6_9313_716C_41CE_9ED01F3CED98.source = https://files.ointegra.com/external/5KR9HtsTeGt-M6lG7
